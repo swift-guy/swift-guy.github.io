@@ -20,7 +20,9 @@ Hello My Name is Ali Usman I'm an experienced iOS developer. I have extensive ex
 
 # Projects
 </br>
-## 1-Tailorie
+I have worked with different organization from startup to multinational and following are the projects that i have worked on and contributed to.
+</br>
+# 1-Tailorie
 </br>
 App Store Link:
 Github:
