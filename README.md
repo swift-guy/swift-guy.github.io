@@ -22,61 +22,71 @@ Hello My Name is Ali Usman I'm an experienced iOS developer. I have extensive ex
 </br>
 I have worked with different organization from startup to multinational and following are the projects that i have worked on and contributed to.
 </br>
+
 # 1-Tailorie
 </br>
 App Store Link:
 Github:
 Contribution:
 </br>
-2-Acqua Code
+
+# 2-Acqua Code
 </br>
 App Store Link:
 Github:
 Contribution:
 </br>
-3-Mindnest
+
+# 3-Mindnest
 </br>
 App Store Link:
 Github:
 Contribution:
 </br>
-4-SpaceEazy
+
+# 4-SpaceEazy
 </br>
 App Store Link:
 Github:
 Contribution:
 </br>
-5-FrugaList
+
+# 5-FrugaList
 </br>
 App Store Link:
 Github:
 Contribution:
 </br>
-6-US Skin Clinic(For Patients)
+
+# 6-US Skin Clinic(For Patients)
 </br>
 App Store Link:
 Github:
 Contribution:
 </br>
-7-US Skin Clinic(For Doctors)
+
+# 7-US Skin Clinic(For Doctors)
 </br>
 App Store Link:
 Github:
 Contribution:
 </br>
-8-GreenLync
+
+# 8-GreenLync
 </br>
 App Store Link:
 Github:
 Contribution:
 </br>
-9-Positive People
+
+# 9-Positive People
 </br>
 App Store Link:
 Github:
 Contribution:
 </br>
-10-Remade
+
+# 10-Remade
 </br>
 App Store Link:
 Github:
