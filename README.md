@@ -25,7 +25,7 @@ I have worked with different organization from startup to multinational and foll
 
 # 1-Tailorie
 </br>
-App Store Link:
+App Store Link:https://apps.apple.com/us/app/tailorie/id1566684261 <br>
 Github:
 Contribution:
 </br>
