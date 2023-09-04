@@ -28,8 +28,9 @@ I have worked with different organization from startup to multinational and foll
 
 </br>
 App Store Link:https://apps.apple.com/us/app/tailorie/id1566684261 <br>
-Github:
-Contribution:
+Github: Private Repo.
+</br>
+Contribution: I Worked with this amazing Tailorie team and contributed in developement and testing and debuging mainly. i wrote some features and unit tests along with that i also implemented some third party libraries i.e Web-Sockets(StarScream) and solved bugs from Sentry crash stacks test flight crashes and bugs reported on the Bugs Channel by the testing team.
 </br>
 
 # 2-Acqua Code
