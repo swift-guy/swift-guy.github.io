@@ -24,7 +24,6 @@ I have worked with different organization from startup to multinational and foll
 </br>
 
 # 1-Tailorie
-</br>
 ![TailorieProject](https://github.com/swift-guy/iOS-Engineer-Portfolio/assets/97175490/c6a4a6bf-649a-4be4-9376-ed05c226d639)
 </br>
 App Store Link:https://apps.apple.com/us/app/tailorie/id1566684261 <br>
