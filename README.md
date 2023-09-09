@@ -1,120 +1,56 @@
-# iOS-Engineer
-Full-stack iOS & Flutter engineer Open for Remote Work.
-![ProfileBackground (2)](https://github.com/swift-guy/iOS-Engineer-Portfolio/assets/97175490/d35ee5b4-b9b4-4021-846c-9470129060fa)
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/jack-portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/jack-portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/jack-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/DdlVKS7MROY?style=social)](https://youtu.be/DdlVKS7MROY)
 
-Hello My Name is Ali Usman I'm an experienced iOS developer. I have extensive experience developing full-fledged iOS applications for large companies, participating in startup projects, and developing small applications from scratch in a couple of months.
+  <br />
+  <br />
+  
+  <img src="./readme-images/project-logo.png" />
 
-# Technologies
+  <h2 align="center">Jack - Personal portfolio</h2>
 
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
-</br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
+  This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-# Projects
-</br>
-I have worked with different organization from startup to multinational and following are the projects that i have worked on and contributed to.
-</br>
+  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
 
-# 1-Tailorie
-![TailorieXcode](https://github.com/swift-guy/iOS-Engineer-Portfolio/assets/97175490/fc39b8b9-11cf-45de-8f1e-e212b3879eb7)
+</div>
 
-</br>
-App Store Link:https://apps.apple.com/us/app/tailorie/id1566684261 <br>
-Github: Private Repo.
-</br>
-Contribution: I Worked with this amazing Tailorie team and contributed in developement and testing and debuging mainly. i wrote some features and unit tests along with that i also implemented some third party libraries i.e Web-Sockets(StarScream) and solved bugs from Sentry crash stacks test flight crashes and bugs reported on the Bugs Channel by the testing team.
-</br>
+<br />
 
-# 2-Acqua Code
-</br>
-App Store Link:
-</br>
-Github:
-</br>
-Contribution:
-</br>
+### Demo Screeshots
 
-# 3-Mindnest
-</br>
-App Store Link:
-</br>
-Github:
-</br>
-Contribution:
-</br>
+![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-# 4-SpaceEazy
-</br>
-App Store Link:
-</br>
-Github:
-</br>
-Contribution:
-</br>
+### Prerequisites
 
-# 5-FrugaList
-</br>
-App Store Link:
-</br>
-Github:
-</br>
-Contribution:
-</br>
+Before you begin, ensure you have met the following requirements:
 
-# 6-US Skin Clinic(For Patients)
-</br>
-App Store Link:
-</br>
-Github:
-</br>
-Contribution:
-</br>
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-# 7-US Skin Clinic(For Doctors)
-</br>
-App Store Link:
-</br>
-Github:
-</br>
-Contribution:
-</br>
+### Run Locally
 
-# 8-GreenLync
-</br>
-App Store Link:
-</br>
-Github:
-</br>
-Contribution:
-</br>
+To run **jack-portfolio** locally, run this command on your git bash:
 
-# 9-Positive People
-</br>
-App Store Link:
-</br>
-Github:
-</br>
-Contribution:
-</br>
+Linux and macOS:
 
-# 10-Remade
-</br>
-App Store Link:
-</br>
-Github:
-</br>
-Contribution:
-</br>
-</br>
-App Store Link:
-Github:
-Contribution:
-</br>
+```bash
+sudo git clone https://github.com/codewithsadee/jack-portfolio.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/jack-portfolio.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+This project is **free to use** and does not contains any license.
