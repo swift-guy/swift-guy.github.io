@@ -36,60 +36,83 @@ Contribution: I Worked with this amazing Tailorie team and contributed in develo
 # 2-Acqua Code
 </br>
 App Store Link:
+</br>
 Github:
+</br>
 Contribution:
 </br>
 
 # 3-Mindnest
 </br>
 App Store Link:
+</br>
 Github:
+</br>
 Contribution:
 </br>
 
 # 4-SpaceEazy
 </br>
 App Store Link:
+</br>
 Github:
+</br>
 Contribution:
 </br>
 
 # 5-FrugaList
 </br>
 App Store Link:
+</br>
 Github:
+</br>
 Contribution:
 </br>
 
 # 6-US Skin Clinic(For Patients)
 </br>
 App Store Link:
+</br>
 Github:
+</br>
 Contribution:
 </br>
 
 # 7-US Skin Clinic(For Doctors)
 </br>
 App Store Link:
+</br>
 Github:
+</br>
 Contribution:
 </br>
 
 # 8-GreenLync
 </br>
 App Store Link:
+</br>
 Github:
+</br>
 Contribution:
 </br>
 
 # 9-Positive People
 </br>
 App Store Link:
+</br>
 Github:
+</br>
 Contribution:
 </br>
 
 # 10-Remade
+</br>
+App Store Link:
+</br>
+Github:
+</br>
+Contribution:
+</br>
 </br>
 App Store Link:
 Github:
